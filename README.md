@@ -40,13 +40,10 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
+<table border="0"><tr><td valign="top" width="50%" border="0">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ncameiri&show_icons=true&theme=vue&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncameiri&hide_border=true&theme=vue&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ncameiri&show_icons=true&theme=vue&count_private=true&hide_border=true" align="left" style="width: 51%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncameiri&hide_border=true&theme=vue&layout=compact" align="right" style="width: 43%" />
 
 </td></tr></table>
 
