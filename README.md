@@ -27,15 +27,15 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 
 
 <div align="center">
-<img style="margin: 10px; padding-right: 5px" src="./.resources\c-seeklogo.com.svg" alt="JavaScriptt" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\icons8-c++.svg" alt="CSS3" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\arduino-seeklogo.com.svg" alt="HTML5" height="22" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\html.svg" alt="Bootstrap" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\mariadb.svg" alt="TypeScript" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\gcloud.svg" alt="Redux" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\docker.svg" alt="React" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\minikube.svg" alt="NextJS" height="25" />
-<img style="margin: 10px; padding-right: 5px" src="./.resources\kubernetes.svg" alt="MongoDB" height="25" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\c-seeklogo.com.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\icons8-c++.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\arduino-seeklogo.com.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\html.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\mariadb.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\gcloud.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\docker.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\minikube.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="./.resources\kubernetes.svg" height="35" />
 
 
 ## Github Stats
