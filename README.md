@@ -1,4 +1,4 @@
-<img src="./nome_eat_repeat.png"   />
+
 
 
 
@@ -37,7 +37,11 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 <img style="margin: 10px; padding-right: 5px" src="./.resources\minikube.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\kubernetes.svg" height="35" />
 
+## Live Project
 
+ [Zbee-it File sharing - AWS Hosting](https://zbee.it.com)
+  
+  
 ## Github Stats
 
 <table border="0"><tr><td valign="top" width="50%" border="0">
