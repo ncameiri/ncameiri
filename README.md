@@ -23,7 +23,7 @@ My first contact with programming(C language) was at 17 years old, when I starte
 Before I started learning at 42 Lisboa I did not imagine that I could turn this interest into an IT career. Now, with the peer2peer learning model and all the challenges I faced and overcame in the 42 projects, I feel more confident and prepared to go through all the different challenges that IT professionals face.
 
 
-## Languages and Tools
+## Languages / Tools / Technologies used
 
 
 <div align="center">
@@ -32,10 +32,20 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 <img style="margin: 10px; padding-right: 5px" src="./.resources\arduino-seeklogo.com.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\html.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\mariadb.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\gcloud.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="32" /> 
 <img style="margin: 10px; padding-right: 5px" src="./.resources\docker.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\minikube.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\kubernetes.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src=" https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" height="32" />
+
 
 ## Live Project
 
