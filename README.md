@@ -49,7 +49,7 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 
 ## Live Project
 
- [raquetas.pt (42 Transcendence Project - AWS Hosting](https://raquetas.pt)
+ [raquetas.pt (42 Transcendence Project - AWS Hosting)](https://raquetas.pt)
   
   
 ## Github Stats
