@@ -41,7 +41,7 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 <img style="margin: 10px; padding-right: 5px" src="./.resources\docker.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\minikube.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\kubernetes.svg" height="35" />
-<img style="margin: 10px; padding-right: 5px" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" height="32" />
+
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" height="32" />
