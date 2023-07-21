@@ -27,8 +27,10 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 
 
 <div align="center">
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\c-seeklogo.com.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\icons8-c++.svg" height="35" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/python/python-official.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\arduino-seeklogo.com.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\html.svg" height="35" />
 <img style="margin: 10px; padding-right: 5px" src="./.resources\mariadb.svg" height="35" />
@@ -45,6 +47,8 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" height="32" />
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="32" />
+<img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" height="32" />
 
 
 ## Live Project
