@@ -51,9 +51,6 @@ Before I started learning at 42 Lisboa I did not imagine that I could turn this 
 <img style="margin: 10px; padding-right: 5px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" height="32" />
 
 
-## Live Project
-
- [raquetas.pt (42 Transcendence Project - AWS Hosting)](https://raquetas.pt)
   
   
 ## Github Stats
