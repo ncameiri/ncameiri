@@ -58,15 +58,15 @@ Before joining **42 Lisboa**, I never imagined I could turn this curiosity into 
 ## 📊 GitHub Stats (Because Why Not)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvddcrz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncameiri&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvddcrz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ncameiri&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvddcrz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncameiri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
