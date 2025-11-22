@@ -12,20 +12,17 @@
 
 ## 🚀 About Me
 
-I started my journey in the **Audiovisual world**, working as a **Lighting Operator**—an area I loved, where I mastered automation for intelligent fixtures like moving heads and other stage systems.
+When I was young, I fell in love with the fact that I could programatically automate anything.
 
-When the pandemic arrived and events were canceled, my workflow disappeared almost overnight. That’s when I spotted a **42 Lisboa** advertisement on the street and instantly felt it was the direction I needed to take. The logic and structured thinking used in lighting automation translated perfectly into programming.
+My first exposure to programming came at 17 years old, experimenting with Arduino modules. I burned a few boards (🔥😅), but that only fuelled my curiosity. I built real-world projects involving:
 
-My first exposure to programming came at **17 years old**, experimenting with **Arduino** modules. I burned a few boards (🔥😅), but that only fueled my curiosity. I built real-world projects involving:
-
-- 🎛️ Light & motor controllers  
-- 📟 Small display systems  
-- 📡 Bluetooth, IR, radio communication  
-- ⚡ Automation tools for everyday problems  
-
+- 🎛️ Light & motor controllers
+- 📟 Small display systems
+- 📡 Bluetooth, IR, radio communication
+- ⚡-  Automation tools for everyday problems
 I became fascinated by how code could create physical, real-life impact.
 
-Before joining **42 Lisboa**, I never imagined I could turn this curiosity into a full IT career. But through peer-to-peer learning and the intense challenges of the 42 curriculum, I’ve built the confidence and resilience to tackle the complex problems found in modern software engineering.
+I am thankful that I managed to turn this innate curiosity into a full IT career. Over the years, I’ve built the confidence and resilience needed to tackle any complex problem found in modern software engineering.
 
 ---
 
